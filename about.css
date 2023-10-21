@@ -1,0 +1,60 @@
+.navbar-custom
+{
+    background-color: #000000;
+}
+.navtxt
+{
+   font-size: x-large;
+}
+body
+{
+    background-image: url('https://wallpapers.com/images/hd4/black-textured-background-68x85p7hdz1rachh.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: #000000;
+    margin-bottom: 5cm;
+    height: 100%;
+}
+.title
+{
+    text-align: center;
+    padding-top: 5%;
+    font: bolder;
+    font-family: 'Roboto Slab', Times, serif;
+    font-size: 400%;
+    text-decoration: underline;
+    color: white;
+}
+.text
+{
+    text-align: center;
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 5%;
+    color: white;
+}
+@media(max-width: 800px)
+{
+    .title
+{
+    text-align: center;
+    padding-top: 5%;
+    font: bolder;
+    font-family: 'Roboto Slab', Times, serif;
+    font-size: 400%;
+    text-decoration: underline;
+    color: white;
+}
+.text
+{
+    text-align: center;
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 5%;
+    color: white;
+}
+}
