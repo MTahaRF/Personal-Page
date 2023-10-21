@@ -1,0 +1,154 @@
+.navbar-custom
+{
+    background-color: #000000;
+}
+.navtxt
+{
+   font-size: x-large;
+}
+body
+{
+    background-image: url('https://assets.isu.pub/document-structure/230803093206-d8238b89eb907963dca636666a757cfd/v1/dc54c04bd4e05d8a1ebc36bba05d8e55.jpeg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: #000000;
+    margin-bottom: 5cm;
+    height: 100%;
+}
+.title
+{
+    text-align: center;
+    padding-top: 5%;
+    font: bolder;
+    font-family: 'Roboto Slab', Times, serif;
+    font-size: 400%;
+    text-decoration: underline;
+    color: white;
+    margin: auto;
+}
+.subtitle
+{
+    text-align: center;
+    padding-top: 5%;
+    font: bolder;
+    font-family: 'Roboto Slab', Times, serif;
+    text-decoration: underline;
+    color: white;
+    font-size: 200%;
+    margin: auto;
+}
+.text
+{
+    text-align: center;
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    color: white;
+    margin: auto;
+}
+ .icon
+ {
+    font-size: 200%;
+    color: white;
+ }
+ .icons
+ {
+    position: absolute;
+
+ }
+ .box
+ {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+    border-radius: 0;
+ }
+ .button
+ {
+    color:white;
+    position: absolute;
+    left: 48%;
+    border-radius: 0;
+ }
+ #i1
+{
+    left: 43%;
+}
+#i2
+{
+    left: 46%;
+}
+#i3
+{
+    left: 49%;
+}
+#i4
+{
+    left: 52%;
+}
+#i5
+{
+    left: 55%;
+}
+ @media(max-width: 800px)
+{
+    .text
+{
+    background-color: #121212;
+    color: white;
+    text-align: center;
+    padding: 1% 1% 1%;
+    font-family: 'Roboto',Times, serif;
+    font-size: 100%;
+}
+.title
+{
+    text-align: center;
+    padding-top: 5%;
+    font: bolder;
+    font-family: 'Roboto Slab', Times, serif;
+    font-size: 300%;
+    text-decoration: underline;
+    color: white;
+}
+.subtitle
+{
+    text-align: center;
+    padding-top: 5%;
+    font: bolder;
+    font-family: 'Roboto Slab', Times, serif;
+    text-decoration: underline;
+    color: white;
+    font-size: 150%;
+}
+#i1
+{
+    left: 25%;
+}
+#i2
+{
+    left: 35%;
+}
+#i3
+{
+    left: 45%;
+}
+#i4
+{
+    left: 55%;
+}
+#i5
+{
+    left: 65%;
+}
+.button
+{
+    color:white;
+    position: absolute;
+    left: 40%;
+    border-radius: 0;
+}
+}
