@@ -1,0 +1,76 @@
+body
+{
+    background-color: #000000;
+    color: white;
+    height: 100%;
+}
+
+.navbar-custom
+{
+    background-color: #000000;
+}
+.navtxt
+{
+   font-size: x-large;
+}
+.text
+{
+    background-color: #121212;
+    color: white;
+    text-align: center;
+    padding: 1% 1% 1%;
+    font-family: 'Roboto',Times, serif;
+    font-size: 125%;
+}
+#title
+{
+    text-align: center;
+    padding-top: 5%;
+    font: bolder;
+    font-family: 'Roboto Slab', Times, serif;
+    font-size: 400%;
+    text-decoration: underline;
+    color: white;
+}
+.subtitle
+{
+    text-align: center;
+    padding-top: 5%;
+    font: bolder;
+    font-family: 'Roboto Slab', Times, serif;
+    text-decoration: underline;
+    color: white;
+    font-size: 150%;
+}
+@media (max-width: 800px)
+{
+    .text
+{
+    background-color: #121212;
+    color: white;
+    text-align: center;
+    padding: 1% 1% 1%;
+    font-family: 'Roboto',Times, serif;
+    font-size: 100%;
+}
+#title
+{
+    text-align: center;
+    padding-top: 5%;
+    font: bolder;
+    font-family: 'Roboto Slab', Times, serif;
+    font-size: 300%;
+    text-decoration: underline;
+    color: white;
+}
+.subtitle
+{
+    text-align: center;
+    padding-top: 5%;
+    font: bolder;
+    font-family: 'Roboto Slab', Times, serif;
+    text-decoration: underline;
+    color: white;
+    font-size: 150%;
+}
+}
